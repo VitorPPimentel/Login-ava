@@ -1,0 +1,6 @@
+{
+    "url": "http://avaead.unirn.edu.br",
+    "headless": false,
+    "element_load_timeout": 10,
+    "retry": true
+}
